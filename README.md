@@ -1,6 +1,6 @@
 
 # My Portfolio!
-Link website:  [https://lemanh99.github.io/](https://lemanh99.github.io/)
+Link website:
 - Ngôn ngữ frontend: HTML-CSS-JAVASCRIPT
 - Ngày Code: 17/01/2021
 ## Mục lục:
